@@ -9,6 +9,7 @@ Examples:
 
 Find the senior-most employee.
 
+
 Countries with the most invoices.
 
 Top 3 invoice totals.
@@ -62,3 +63,5 @@ Customers, Invoices, and Invoice Lines
 Tracks, Albums, Artists, and Genres
 
 Employees and their hierarchy
+
+<img width="710" height="574" alt="music" src="https://github.com/user-attachments/assets/33771cf2-7c0d-4942-b4e0-9fa009d27c4e" />
