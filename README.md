@@ -41,16 +41,6 @@ Language: SQL
 
 🚀 How to Use
 
-Clone this repository:
-
-git clone https://github.com/your-username/music-store-sql-project.git
-cd music-store-sql-project
-
-
-Import the database (e.g., Chinook DB).
-
-Run queries from the .sql file in your SQL editor or terminal.
-
 📊 Key Learnings
 
 SQL Joins (INNER JOIN, LEFT JOIN)
